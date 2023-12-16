@@ -1,6 +1,6 @@
 # Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 16-12-2023
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,12 +31,17 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![Air conditioner](https://github.com/Jeshwanthkumarpayyavula/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742402/a01dcaca-e796-46ec-aea8-0e33c71b4da7)
+
+
 
 ### Output:
+![AC](https://github.com/Jeshwanthkumarpayyavula/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742402/c6f51d68-7603-4920-b051-99e524a0c9a2)
 
 
-### Name:
-### Register Number:
+
+### Name: Jeshwanth kumar
+### Register Number: 212223240114
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
