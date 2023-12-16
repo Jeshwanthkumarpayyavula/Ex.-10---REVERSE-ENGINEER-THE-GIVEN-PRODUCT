@@ -36,7 +36,7 @@
 
 
 ### Output:
-![AC](https://github.com/Jeshwanthkumarpayyavula/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742402/c6f51d68-7603-4920-b051-99e524a0c9a2)
+![image](https://github.com/Jeshwanthkumarpayyavula/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742402/3a2c1315-2de3-4301-b679-f17200a4fd73)
 
 
 
