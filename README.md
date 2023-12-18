@@ -8,7 +8,7 @@
 ## REQUIREMENTS:
 ### ●	CURA 4.0 Software
 ### ●	 Autodesk Fusion 360
-### ●	 System - Windows 7 or higher, 1 GB RAM.
+### ●	 System - Windows 11 or higher, 16 GB RAM.
 
 ## PROCEDURE:
 ### Step 1.:- Duplicate all the geometric features for the given object using vernier caliper, measuring tapes or any instruments provided
@@ -37,6 +37,10 @@
 
 ### Output:
 ![image](https://github.com/Jeshwanthkumarpayyavula/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742402/3a2c1315-2de3-4301-b679-f17200a4fd73)
+
+### Ultimaker cura:
+![image](https://github.com/Jeshwanthkumarpayyavula/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742402/a5031294-3930-48f3-8fa9-fe2b50f7c904)
+
 
 
 
